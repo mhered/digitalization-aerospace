@@ -79,3 +79,32 @@ Now we can add data we collect during design, production, operation: **Digital s
 
 Digital twin of a factory we call **Digital factory**
 
+# Assistance Systems
+
+Assistance systems provide support (cognitive, for perception or decision, or physical for execution) to humans in the increasingly complex production environment
+
+# Robotics
+
+Used in last 40 years but exciting recent developments.
+
+conventionally: repetitive tasks, in fenced area, programming required expert knowledge. Not suitable for increased variability, smaller lot sizes, shorter product life cycle
+Now: aware robots able to react and communicate with humans without expert knowledge enable cooperation with humans, flexible, intuitive no-code or low-code programming
+
+Give tasks to the robots, no need to program every step. communicate with gestures, eye movement or speech recognition
+
+Man and robot split the tasks: the robot takes non-ergonomic tasks
+
+Mobile robots
+
+# Conclusion
+
+Example from cevotec patch placement
+
+
+
+
+
+
+
+
+
