@@ -30,5 +30,16 @@ Two papers in German!
 
 Digital tech used in production since the 60s.
 
-Production are the processes from customer requirements to shipment of goods.
+Production is the processes from customer requirements to shipment of goods:
+- research and engineering to define the product
+- production planning
+- production contorl schedules all steps
+- material scheduling procures parts and materials
 ![Order processing](./assets/order-processing.png)
+
+* 1st industrial revolution: Watt 
+* 2nd industrial revolution: Taylor separates WCW and BCW
+* 3rd industrial revolution in 1960s: integrate computer in production facilities: robots and CNCs
+* 4th industrial revolution: interlinked intelligent production systems
+
+industry 4.0 in
